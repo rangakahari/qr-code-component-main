@@ -1,0 +1,8 @@
+:root {
+  --font-family: "Outfit", sans-serif;
+  --max-width: 1440px;
+  --max-height: 960px;
+  --background-color:#D5E1EF;
+  --heading-font-color: #1F314F;
+  --paragraph-font-color: #68778D;
+}
